@@ -1,6 +1,6 @@
 # Hi there, My name is Taeshin (Tae)👋
 
-Just a ordinary programmer.
+Just an ordinary programmer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeshn&show_icons=true&theme=transparent)
 
