@@ -2,7 +2,9 @@
 
 Just an ordinary programmer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeshn&show_icons=true&theme=transparent)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttaeshn&show_icons=true&theme=transparent)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttaeshn&layout=donut&bg_color=0d1117&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
