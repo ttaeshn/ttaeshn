@@ -1,6 +1,6 @@
 # Hi there, My name is Taeshin (Tae)👋
 
-Just an ordinary programmer.
+Hi! My name is Taeshin Pokinapipan. Now I'm a Computer Engineering Major Student at King Mongkut's Institute of Technology Ladkrabang and Software Engineer Intern at ttb Spark. I'm a highly motivated Computer Engineering student working on many software project applications with engineering process, eager to apply academic knowledge and skills gained through experience and projects to a challenging entry-level role as a Software Engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=ttaeshn&theme=transparent" />
